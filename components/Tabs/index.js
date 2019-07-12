@@ -26,4 +26,4 @@ function Tab(item) {
 }
 
 let topics = document.querySelector('.topics');
-console.log(topics);
+// console.log(topics);

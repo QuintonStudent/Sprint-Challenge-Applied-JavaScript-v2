@@ -33,7 +33,7 @@ function Header() {
   let headerContainer = document.querySelector('.header-container');
   headerContainer.appendChild(div1);
 
-  console.log(headerContainer);
+  // console.log(headerContainer);
 }
 
 Header();
